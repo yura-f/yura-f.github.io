@@ -1,0 +1,30 @@
+{
+	"token": {
+		"Yura Fedorchenko":"Yura Fedorchenko",
+		"Android developer":"Android desarrollador",
+		"About me":"Sobre mi",
+		"Portfolio":"Proyectos",
+		"Contacts":"Contactos",
+		"Hello, my name is Yura Fedorchenko.":"¡Hola! Me llamo Yura Fedorchenko.",
+		"I work with the following tools and technologies:":"Trabajo con las siguientes herramientas y tecnologías:",
+		
+		"✓ Confidently write on":"✓ Escribir con confianza en",
+		"✓ Applying principles of OOP, design patterns and reactive programming;":"✓ Aplicando principios de OOP, patrones de diseño y programación reactiva;",
+		"✓ Developing agile and extending architecture;":"✓ Desarrollar una arquitectura ágil y extensiva;",
+		"✓ Create unique UI components;":"✓ Crear componentes únicos de interfaz de usuario;",
+		"✓ Write clear, effective and support code;":"✓ Escribir código claro, efectivo y de soporte;",
+		"✓ Experience in development for over 5 years with":"✓ Experiencia en desarrollo por más de 5 años con",
+		"✓ Managing tasks within the Agile framework.":"✓ Administrar tareas dentro del marco ágil.",
+		
+		"I live in the Russian city of Krasnodar. Ready to move.":"Vivo en Rusia de la ciudad de Krasnodar. Estoy listo para traslado.",
+		"Summary":"Resumen",
+		"Applications":"Aplicaciones",
+		"Coming soon!":"¡Próximamente!",
+		"Let's Make Something Awesome":"¡Hagamos Algo impresionante!",
+		"Email":"Email",
+		"Skype":"Skype",
+		"Phone":"Teléfono"
+	},
+	"regex": [
+	]
+}

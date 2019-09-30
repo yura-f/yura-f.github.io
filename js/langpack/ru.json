@@ -1,0 +1,37 @@
+{
+	"token": {
+		"Yura Fedorchenko":"Юрий Федорченко",
+		"Android developer":"Android разработчик",
+		"About me":"Обо мне",
+		"Portfolio":"Мои работы",
+		"Contacts":"Контакты",
+		"Hello, my name is Yura Fedorchenko.":"Добрый день, меня зовут Юрий Федорченко.",
+		"I work with the following tools and technologies:":"Мой стек технологий:",
+		
+		"✓ Confidently write on":"✓ Уверенно пишу на",
+		"✓ Applying principles of OOP, design patterns and reactive programming;":"✓ Применяю принципы ООП, шаблонов проектирования и реактивного программирования;",
+		"✓ Developing agile and extending architecture;":"✓ Разрабатываю гибкую и расширяемую архитектуру приложений;",
+		"✓ Create unique UI components;":"✓ Создаю уникальные компоненты UI;",
+		"✓ Write clear, effective and support code;":"✓ Пишу чистый, эффективный и поддерживаемый код;",
+		"✓ Experience in development for over 5 years with":"✓ Опыт разработки более 5 лет на",
+		"✓ Managing tasks within the Agile framework.":"✓ Управление задачами в рамках Agile.",
+		
+		"✓ Knowledge of":"✓ Знание",
+		"I live in the Russian city of Krasnodar. Ready to move.":"Проживаю в России г.Краснодар. Готов к переезду.",
+		"view":"смотреть",
+		"Summary":"Резюме",
+		"Applications":"Приложения",
+		"Coming soon!":"Очень скоро!",
+		"Aerobus Seller":"Аэробус. Продавец Клуба",
+		"Aerobus":"Аэробус",
+		"Smart Atrium":"Smart Атриум",
+		"Dropper":"Капельница",
+		"Let's Make Something Awesome":"Давайте сделаем что-то невероятное!",
+		"Email":"Email",
+		"Skype":"Skype",
+		"Phone":"Телефон",
+		"Dodopizza":"Додо Пицца"
+	},
+	"regex": [
+	]
+}
